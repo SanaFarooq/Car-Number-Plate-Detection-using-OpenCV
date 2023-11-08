@@ -31,3 +31,5 @@ You may also consider using pre-trained models or leveraging cloud-based ANPR se
 
 Keep in mind that building an effective ANPR system is a non-trivial task, and it can be resource-intensive in terms of data, computational power, and expertise. It may be more practical to explore pre-built ANPR solutions or consider collaborating with experts in computer vision and machine learning if you're not experienced in these fields. Additionally, ensure you comply with legal and ethical considerations when implementing an ANPR system.
 **Please if you have any project for me then let me know i providing paid project services as well.**
+Kind regards,
+Sana Farooq
