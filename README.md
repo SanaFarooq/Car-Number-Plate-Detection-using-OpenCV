@@ -29,6 +29,10 @@ For text recognition and grouping, you can use regular expressions or libraries 
 
 You may also consider using pre-trained models or leveraging cloud-based ANPR services, as they can save a lot of development time.
 
+OUTPUT OF THE PROJECT. 
+![output](https://github.com/SanaFarooq/Car-Number-Plate-Detection-using-OpenCV/assets/50784507/fcda0b86-102d-4851-83f4-7e7ef3b4f622)
+![Numberplate](https://github.com/SanaFarooq/Car-Number-Plate-Detection-using-OpenCV/assets/50784507/2719b3aa-2751-4927-a62a-72578386ddf4)
+
 Keep in mind that building an effective ANPR system is a non-trivial task, and it can be resource-intensive in terms of data, computational power, and expertise. It may be more practical to explore pre-built ANPR solutions or consider collaborating with experts in computer vision and machine learning if you're not experienced in these fields. Additionally, ensure you comply with legal and ethical considerations when implementing an ANPR system.
 **Please if you have any project for me then let me know i providing paid project services as well.**
 Kind regards,
